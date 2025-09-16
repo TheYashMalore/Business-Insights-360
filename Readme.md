@@ -59,5 +59,5 @@ gdb056:
 * Established Data modeling between 15 tables
 * Establishing the right relationships between tables is crucial for correct & effective Data analysis
 * Utilized Snowflake Schema for Data modeling
-<img align="center" src="https://github.com/mk-ghosh-25/Business-Insights-360_AtliQ-Hardware/blob/main/d-modeling.png?raw=true" height="600" width="1400">
+<img align="center" src="https://github.com/TheYashMalore/Business-Insights-360/blob/main/Screenshot%202025-09-16%20112219.png" height="600" width="1400">
 <br><br>
