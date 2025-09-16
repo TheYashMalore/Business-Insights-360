@@ -18,6 +18,21 @@ Here is my presentation link -
 
 AtliQ, a business with operations expanding across multiple countries, was struggling with the increasing complexity of its operations. Despite their rapid growth, the company was relying heavily on Excel for data analysis, which was time-consuming, error-prone, and lacked scalability. This caused inefficiencies in decision-making and led to significant financial losses, particularly in their Latin American market, due to the inability to extract meaningful insights from their data in real time.
 
+### Tech Stack used
+* SQL
+* Power BI Desktop & Power BI Service
+* Excel
+* DAX Studio
+* Project Charter file 
+<br><br>
+
+# Data Sources
+  The dashboard gathers data from two primary sources:
+
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Excel/CSV Files:** Targets and Market Share data and related information are sourced from Excel and CSV files.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**2. MySQL Database**: Facts and Dimension for all departments are retrieved from a MySQL database.
+
 ## Datasets:
 
 Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
@@ -39,3 +54,10 @@ gdb056:
 * manufacturing_cost
 * Pre_invoice_dedutions
 * Post_invoice_deductions
+
+### Data Modeling
+* Established Data modeling between 15 tables
+* Establishing the right relationships between tables is crucial for correct & effective Data analysis
+* Utilized Snowflake Schema for Data modeling
+<img align="center" src="https://github.com/mk-ghosh-25/Business-Insights-360_AtliQ-Hardware/blob/main/d-modeling.png?raw=true" height="600" width="1400">
+<br><br>
