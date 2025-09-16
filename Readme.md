@@ -71,7 +71,7 @@ gdb056:
 * <h3>Products view: Insights on Key products & customers</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/2967e1fc-d93c-4f59-934a-efc91d136f13.png" height="540" width="960"> <br><br>
 * <h3>Executive view: Historical metrics customized for Executive members that enables strategic decision making</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4114838b-8b65-467a-b6b1-83f9bc6772a3.png" height="540" width="960"> <br><br>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> View Live Dashboard </a> <br><br>
+<a href="https://app.powerbi.com/links/OzMUi-GqA9?ctid=8a4497cd-19ec-4c9a-87c0-06f4d0fe41ec&pbi_source=linkShare"> View Live Dashboard </a> <br><br>
 
 ### KPIs & Metrics
 * Key Performance Indicatos(KPIs):
@@ -119,9 +119,6 @@ gdb056:
 * Optimize inventory levels to reduce risks like stockouts (OOS) and excess inventory
 * Involve cross-functional teams in the forecasting process to ensure effective planning and maximize resource utilization, reducing risks such as OOS or excess inventory
 * Conduct surveys in the LATAM region to better understand consumer behavior and focus on products with the highest demand, ensuring better market penetration
-<br><br>
-
-<a href="https://mavenanalytics.io/project/18173"> View Full Report details </a>
 <br><br>
 
 ### Key Enhancements to the Dashboard
