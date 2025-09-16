@@ -14,3 +14,28 @@ Here is my report link -
 
 Here is my presentation link - 
 
+## Problem Statement
+
+AtliQ, a business with operations expanding across multiple countries, was struggling with the increasing complexity of its operations. Despite their rapid growth, the company was relying heavily on Excel for data analysis, which was time-consuming, error-prone, and lacked scalability. This caused inefficiencies in decision-making and led to significant financial losses, particularly in their Latin American market, due to the inability to extract meaningful insights from their data in real time.
+
+## Datasets:
+
+Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
+
+**Dimension table:** Static data like customer and product details.
+
+**Fact table:** Transaction data.
+
+gdb041:
+* dim_customer
+* dim_market
+* dim_product
+* fact_forecast_monthly - This table is used to forecast the customer’s need in advance, which can help in Higher customer satisfaction and reduced cost in warehouses for storage purposes
+* fact_sales_monthly - This table is more or less is same as the fact_forecast_monthly table, but the last column has the value of the sold quantity instead of the forecast value.
+
+gdb056:
+* freight_cost
+* gross_price
+* manufacturing_cost
+* Pre_invoice_dedutions
+* Post_invoice_deductions
