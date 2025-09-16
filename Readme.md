@@ -100,7 +100,7 @@ AtliQ, while expanding into multiple countries, struggled with:
 
 **Products**  
 - Top 5 markets: India, USA, South Korea, UK, Canada.  
-- **Electron 8 5900X Processor** has highest Gross Margin % in top markets.  
+- **AQ 5000 series Electron 8 5900X Processor** has highest Gross Margin % in top markets.  
 
 **Executive**  
 - Retailer Channel & PC Division = highest revenue contributors.  
